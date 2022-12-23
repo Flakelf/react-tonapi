@@ -1,0 +1,10 @@
+body {
+  font-family: "Manrope", sans-serif;
+  background: rgb(37, 37, 37);
+  color: #fff;
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+}
